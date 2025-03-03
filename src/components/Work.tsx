@@ -4,7 +4,7 @@ import gsap from "gsap";
 import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
-import { useGSAP } from "@gsap";
+import useGSAP from "@gsap";
 
 gsap.registerPlugin(useGSAP);
 
